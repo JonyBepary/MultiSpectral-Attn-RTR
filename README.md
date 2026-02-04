@@ -1,5 +1,9 @@
 # MultiSpectral-Attn-RTR
 
+[![Status: Work in progress](https://img.shields.io/badge/status-WIP--draft-yellow?style=flat-square)](https://github.com/YOUR_USERNAME/MultiSpectral-Attn-RTR#status)
+[![Release: Q4 2026–2027](https://img.shields.io/badge/release-Q4_2026--2027-lightgrey?style=flat-square)](https://github.com/YOUR_USERNAME/MultiSpectral-Attn-RTR#status)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)](https://www.python.org/downloads/)
+
 Official implementation of "Multi-Spectral Attention Architecture Addresses Missing Modalities and Overfitting in Radar Target Recognition".
 
 
